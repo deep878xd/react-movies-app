@@ -117,7 +117,7 @@ function App() {
             />
           ))
         ) : (
-          <Placeholder src="/react-movie-app/movie-icon.svg" />
+          <Placeholder src="/movie-icon.svg" />
         )}
       </MovieListContainer>
     </Container>
